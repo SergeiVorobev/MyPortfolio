@@ -1,5 +1,5 @@
 from django.contrib import admin
-from my_finance import models
+from portfolio import models
 
 # Register your models here.
 admin.site.register(models.MyApp)

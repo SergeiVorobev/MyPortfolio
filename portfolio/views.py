@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from my_finance.models import MyApp
+from portfolio.models import MyApp
 
 
 # Create your views here.
