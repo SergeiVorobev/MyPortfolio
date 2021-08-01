@@ -1,5 +1,5 @@
 /venv
 /.idea
-/MyBalance/__pycache__
+/MyPortfolio/__pycache__
 /__pycache__
 db.sqlite3
