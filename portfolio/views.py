@@ -9,4 +9,4 @@ def home(request):
     context = {
         'my_apps': all_apps
     }
-    return render(request, 'website/index.html')
+    return render(request, 'website/index.html', context)
